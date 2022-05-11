@@ -21,6 +21,12 @@ You can use these command to build dismap.
 bash build.sh
 ```
 
+**On Windows**
+
+``` batch
+.\build.bat
+```
+
 ## 🏂 Run
 Dismap is a binary file for Linux, MacOS, and Windows. Go to [Release](https://github.com/zhzyker/dismap/releases) to download the corresponding version to run:
 ```Bash

@@ -21,6 +21,12 @@ Dismap 拥有完善的指纹规则库，目前包括 tcp/udp/tls 协议指纹和
 bash build.sh
 ```
 
+**On Windows**
+
+``` batch
+.\build.bat
+```
+
 ## 🏂 Run
 Dismap 对 Linux、MacOS、Windows 均提供了二进制可执行文件，前往 [Release](https://github.com/zhzyker/dismap/releases) 下载对应版本即可运行:
 ```Bash
