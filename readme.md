@@ -12,6 +12,15 @@ Dismap has a complete fingerprint rule base, currently including tcp/udp/tls pro
 
 ~~Scan results can be directly sent to [vulmap](https://github.com/zhzyker/vulmap)(>=0.8) for vulnerability scanning.~~ In version 0.3, the text result has been changed, the json file result has been added, and vulmap will support linkage in >= 1.0
 
+## 🛠Build
+
+You can use these command to build dismap.
+**On macOS or Linux**
+
+``` bash
+bash build.sh
+```
+
 ## 🏂 Run
 Dismap is a binary file for Linux, MacOS, and Windows. Go to [Release](https://github.com/zhzyker/dismap/releases) to download the corresponding version to run:
 ```Bash

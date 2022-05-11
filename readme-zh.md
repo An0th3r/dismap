@@ -12,6 +12,15 @@ Dismap 拥有完善的指纹规则库，目前包括 tcp/udp/tls 协议指纹和
 
 ~~扫描结果可直接丢给 [Vulmap](https://github.com/zhzyker/vulmap)(>=0.8) 进行漏洞扫描。~~, 0.3 版本中改变了文本结果，新增了 json 文件结果，vulmap 将在 >= 1.0 支持联动
 
+## 🛠Build
+
+你可以使用下面的命令构建dismap。
+**On macOS or Linux**
+
+``` bash
+bash build.sh
+```
+
 ## 🏂 Run
 Dismap 对 Linux、MacOS、Windows 均提供了二进制可执行文件，前往 [Release](https://github.com/zhzyker/dismap/releases) 下载对应版本即可运行:
 ```Bash
