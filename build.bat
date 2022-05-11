@@ -1,0 +1,1 @@
+go build -ldflags "-s -w" -o dismap.exe cmd/dismap/dismap.go
